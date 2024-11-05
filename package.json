@@ -1,5 +1,5 @@
 {
-  "name": "git-copy",
+  "name": "git-coppy",
   "version": "0.0.1",
   "description": "Copies a git repo to your machine without the git stuff, just the repo files!",
   "main": "git-copy.js",

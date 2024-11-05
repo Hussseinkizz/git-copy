@@ -1,6 +1,6 @@
-# git-copy
+# git-coppy
 
-`git-copy` is a simple command-line tool that allows you to copy a Git repository to your local machine without including the Git history and `.git` folder.
+`git-coppy` is a simple command-line tool that allows you to copy a Git repository to your local machine without including the Git history and `.git` folder.
 
 This is useful when you want just the files from a repository without the version control metadata, basically you only want the files of the repo without the git stuff.
 
@@ -13,10 +13,10 @@ This is useful when you want just the files from a repository without the versio
 
 ## Installation
 
-You can install `git-copy` globally using npm by running the following command:
+You can install `git-coppy` globally using npm by running the following command:
 
 ```bash
-npm install -g git-copy
+npm install -g git-coppy
 ```
 
 ## Usage
