@@ -1,0 +1,29 @@
+{
+  "name": "git-copy",
+  "version": "0.0.1",
+  "description": "Copies a git repo to your machine without the git stuff, just the repo files!",
+  "main": "git-copy.js",
+  "type": "module",
+  "bin": {
+    "git-copy": "./git-copy.js"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hussseinkizz/git-copy.git"
+  },
+  "keywords": [
+    "git",
+    "github",
+    "cli",
+    "git-copy",
+    "git",
+    "clone"
+  ],
+  "author": "Hussein Kizz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Hussseinkizz/git-copy/issues"
+  },
+  "homepage": "https://github.com/Hussseinkizz/git-copy#readme"
+}
